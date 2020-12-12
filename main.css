@@ -226,7 +226,7 @@ input{
 	height: 30px;
 	width: 50px;
 }
-@media (max-width: 479px){
+@media (max-width: 800px){
 	body{
 		justify-content: center;
 		font-size: 30.5%;
@@ -303,7 +303,7 @@ footer{
 }
 
 
-@media (max-width: 800px){
+@media (max-width: 479px){
 	body{
 		justify-content: center;
 		font-size: 30.5%;
